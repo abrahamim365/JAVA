@@ -5,7 +5,7 @@ public class var5 {
 	public static void main(String[] args) {
 		//오버플로우, 언더플로우
 		
-		byte d1 = (byte)256;
+		byte d1 = (byte)129;
 		System.out.println(d1);
 		
 		byte d2 = (byte)-129;
